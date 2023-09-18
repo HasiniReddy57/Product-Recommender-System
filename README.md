@@ -1,2 +1,2 @@
 # BuildingAnEfficientProductRecommenderSystem
-The paper explores personalized e-commerce recommendations using collaborative filtering and popularity-based methods. It emphasizes tailored suggestions for improved user experience and business profits, showcasing successful Amazon electronics data implementation and evaluation.
+The paper "Building an Efficient Product Recommender System" discusses personalized recommendation models for e-commerce platforms, focusing on collaborative filtering and popularity-based methods. It highlights the significance of tailored recommendations for enhancing user experience and business profitability. The study demonstrates successful implementation and evaluation of these models using Amazon's electronics data.
